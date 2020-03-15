@@ -1,0 +1,13 @@
+/Users/kimschaurich/Projects/projectManager/projectManager/bin/Debug/netstandard2.0/projectManager.deps.json
+/Users/kimschaurich/Projects/projectManager/projectManager/bin/Debug/netstandard2.0/projectManager.dll
+/Users/kimschaurich/Projects/projectManager/projectManager/bin/Debug/netstandard2.0/ref/projectManager.dll
+/Users/kimschaurich/Projects/projectManager/projectManager/bin/Debug/netstandard2.0/projectManager.pdb
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/projectManager.csprojAssemblyReference.cache
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/projectManager.AssemblyInfoInputs.cache
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/projectManager.AssemblyInfo.cs
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/projectManager.dll
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/ref/projectManager.dll
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/projectManager.pdb
