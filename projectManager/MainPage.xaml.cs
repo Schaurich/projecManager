@@ -16,6 +16,13 @@ namespace projectManager
         public MainPage()
         {
             InitializeComponent();
+
+        }
+
+        void BtnLogin_Clicked(System.Object sender, System.EventArgs e)
+        {
+            Navigation.PushAsync(new View.HomePage());
+
         }
     }
 }

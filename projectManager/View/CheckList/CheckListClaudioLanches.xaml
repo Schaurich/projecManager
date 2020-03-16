@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="projectManager.View.CheckList.CheckListClaudioLanches">
+    <ContentPage.Content>
+        <Grid Margin="16">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="35"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150"/>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="35"/>
+            </Grid.RowDefinitions>
+            
+                <StackLayout Grid.Column="1">
+                    <StackLayout >
+                         <Label  Text="Project Manager" HorizontalOptions="Center" FontSize="Title" TextColor="Black"/>
+                    </StackLayout>
+                    <StackLayout Margin="0,40,0,0">
+                         <Label  Text="Claudio Lanches" HorizontalOptions="Center" FontSize="Subtitle" TextColor="Black" />
+                    </StackLayout>
+                </StackLayout>
+                
+                <CheckBox Scale="2" Grid.Row="1" Grid.Column="0" Margin="5" Color="DarkBlue"/>
+                <CheckBox Scale="2" Grid.Row="2" Grid.Column="0" Margin="5" Color="DarkBlue"/>
+                <CheckBox Scale="2" Grid.Row="3" Grid.Column="0" Margin="5" Color="DarkBlue"/>
+                <CheckBox Scale="2" Grid.Row="4" Grid.Column="0" Margin="5" Color="DarkBlue"/>
+                <CheckBox Scale="2" Grid.Row="5" Grid.Column="0" Margin="5" Color="DarkBlue"/>
+                <CheckBox Scale="2" Grid.Row="6" Grid.Column="0" Margin="5" Color="DarkBlue"/>
+                <CheckBox Scale="2" Grid.Row="7" Grid.Column="0" Margin="5" Color="DarkBlue"/>
+           
+                
+                <Label Text="Item 1" Grid.Row="1" Grid.Column="1" Margin="10,0,0,0" FontSize="Medium" TextColor="Black"/>
+                <Label Text="Item 2" Grid.Row="2" Grid.Column="1" Margin="10,0,0,0" FontSize="Medium" TextColor="Black"/>
+                <Label Text="Item 3" Grid.Row="3" Grid.Column="1" Margin="10,0,0,0" FontSize="Medium" TextColor="Black"/>
+                <Label Text="Item 4" Grid.Row="4" Grid.Column="1" Margin="10,0,0,0" FontSize="Medium" TextColor="Black"/>
+                <Label Text="Item 5" Grid.Row="5" Grid.Column="1" Margin="10,0,0,0" FontSize="Medium" TextColor="Black"/>
+                <Label Text="Item 6" Grid.Row="6" Grid.Column="1" Margin="10,0,0,0" FontSize="Medium" TextColor="Black"/>
+                <Label Text="Item 7" Grid.Row="7" Grid.Column="1" Margin="10,0,0,0" FontSize="Medium" TextColor="Black"/>
+           
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="projectManager.View.DetailEventPage">
+    <ContentPage.Content>
+
+        <Grid>
+            <StackLayout Grid.Row="0">
+                <StackLayout>
+                    <Label  Text="Project Manager" HorizontalOptions="Center" FontSize="Title"/>
+                </StackLayout>
+            <StackLayout Margin="0,40,0,0">
+                <Label  Text="Claudio Lanches" HorizontalOptions="Center" FontSize="Subtitle" />
+            </StackLayout>
+            
+            <StackLayout Margin="30" HorizontalOptions="Start" >
+
+                 <Button Text="Claudio lanches" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Start" TextColor="DarkBlue" Clicked="btnDetailEventClaudio"/>
+                <Button Text="Tia Zeffa" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Start" TextColor="DarkBlue"/> 
+                <Button Text="Palathus" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Start" TextColor="DarkBlue"/>
+                <Button Text="União" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Start" TextColor="DarkBlue"/>
+                <Button Text="Vompar" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Start" TextColor="DarkBlue"/>
+                <Button Text="Petrópole" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Start" TextColor="DarkBlue"/>
+                </StackLayout>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

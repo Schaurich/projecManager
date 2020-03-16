@@ -11,3 +11,11 @@
 /Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/projectManager.dll
 /Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/ref/projectManager.dll
 /Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/projectManager.pdb
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/View/HomePage.xaml.g.cs
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/View/DetailEvent/DetailClaudioLanchesPage.xaml.g.cs
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/View/CheckList/CheckListClaudioLanches.xaml.g.cs
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/View/Financeiro/FinanceiroClaudioLanches.xaml.g.cs
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/View/GaleriaDocumentos/GaleriaDocumentosClaudioLanches.xaml.g.cs
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/View/GaleriaImagens/GaleriaImagensPage.xaml.g.cs
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/View/RegistroConsumo/RegistroConsumoPage.xaml.g.cs
+/Users/kimschaurich/Projects/projectManager/projectManager/obj/Debug/netstandard2.0/View/RegistroFornecedor/RegistroFornecedorPage.xaml.g.cs

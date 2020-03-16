@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="projectManager.View.DetailEvent.DetailClaudioLanchesPage">
+    <ContentPage.Content>
+        <Grid>
+            <StackLayout Grid.Row="0">
+                <StackLayout>
+                    <Label  Text="Project Manager" HorizontalOptions="Center" FontSize="Title" TextColor="Black"/>
+                </StackLayout>
+            <StackLayout Margin="0,20,0,0">
+                <Label  Text="Claudio Lanches" HorizontalOptions="Center" FontSize="Subtitle"  TextColor="Black"/>
+            </StackLayout>
+            
+            <StackLayout Margin="30" HorizontalOptions="StartAndExpand" >
+
+                <Button Text="CheckList" FontSize="Body" FontAttributes="Bold" HorizontalOptions="Start" TextColor="DarkBlue" Clicked="goPageCheckList" BackgroundColor="Transparent"/>
+                <Button Text="Financeiro" FontSize="Body" FontAttributes="Bold" HorizontalOptions="Start" TextColor="DarkBlue" Clicked="goPageFinanceiro" BackgroundColor="Transparent"/> 
+                <Button Text="Galeria de documentos" FontSize="Body" FontAttributes="Bold" HorizontalOptions="Start" TextColor="DarkBlue" Clicked="goPageGaleriaDocumentos" BackgroundColor="Transparent"/>
+                <Button Text="Galeria de imagens" FontSize="Body" FontAttributes="Bold" HorizontalOptions="Start" TextColor="DarkBlue" Clicked="goGaleriaImagens" BackgroundColor="Transparent"/>
+                <Button Text="Registro de consumo" FontSize="Body" FontAttributes="Bold" HorizontalOptions="Start" TextColor="DarkBlue" Clicked="goRegistroConsumo" BackgroundColor="Transparent"/>
+                <Button Text="Registro fornecedor" FontSize="Body" FontAttributes="Bold" HorizontalOptions="Start" TextColor="DarkBlue" Clicked="goRegistroFornecedor" BackgroundColor="Transparent"/>
+                </StackLayout>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

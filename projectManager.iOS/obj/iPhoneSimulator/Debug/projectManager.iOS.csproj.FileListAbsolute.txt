@@ -45,14 +45,14 @@
 /Users/kimschaurich/Projects/projectManager/projectManager.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/kimschaurich/Projects/projectManager/projectManager.iOS/bin/iPhoneSimulator/Debug/projectManager.dll
 /Users/kimschaurich/Projects/projectManager/projectManager.iOS/bin/iPhoneSimulator/Debug/projectManager.pdb
-/Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/ibtool/_BundleResourceWithLogicalName.items
-/Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_PartialAppManifest.items
-/Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_BundleResourceWithLogicalName.items
-/Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_PartialAppManifest.items
-/Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_BundleResourceWithLogicalName.items
-/Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/optimized/
 /Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/projectManager.iOS.csprojAssemblyReference.cache
 /Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/projectManager.iOS.csproj.CopyComplete
 /Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/projectManager.iOS.exe
 /Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/projectManager.iOS.pdb
+/Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_PartialAppManifest.items
+/Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_BundleResourceWithLogicalName.items
+/Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_PartialAppManifest.items
+/Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/kimschaurich/Projects/projectManager/projectManager.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/

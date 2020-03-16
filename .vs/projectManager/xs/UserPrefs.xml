@@ -1,10 +1,9 @@
-﻿<Properties StartupConfiguration="{5F0D2801-556F-4F5A-95BB-E17B486DA887}|Default">
+﻿<Properties StartupConfiguration="{8D0E0E16-5AA2-4278-90D9-1BA4D4191B11}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="projectManager/MainPage.xaml">
     <Files>
-      <File FileName="projectManager/View/MyPage.cs" Line="21" Column="1" />
-      <File FileName="projectManager/App.xaml.cs" Line="8" Column="6" />
-      <File FileName="projectManager/App.xaml" Line="10" Column="15" />
-      <File FileName="projectManager/MainPage.xaml" Line="6" Column="14" />
+      <File FileName="projectManager/View/CheckList/CheckListClaudioLanches.xaml" Line="21" Column="44" />
+      <File FileName="projectManager/View/HomePage.xaml" Line="6" Column="25" />
+      <File FileName="projectManager/MainPage.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,9 +11,14 @@
           <Node name="projectManager" expanded="True">
             <Node name="projectManager" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="View" expanded="True" />
-              <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" selected="True" />
+              <Node name="View" expanded="True">
+                <Node name="CheckList" expanded="True" />
+                <Node name="DetailEvent" expanded="True">
+                  <Node name="DetailClaudioLanchesPage.xaml" expanded="True" />
+                </Node>
+                <Node name="GaleriaImagens" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
             </Node>
             <Node name="projectManager.Android" expanded="True" />
             <Node name="projectManager.iOS" expanded="True" />
@@ -23,12 +27,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.projectManager.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.projectManager.Android PreferredExecutionTarget="Android.330022b2a4e74561" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.projectManager.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.23A8F1EF-C8F0-4007-9D5C-F483915A8C41" />
+  <MonoDevelop.Ide.ItemProperties.projectManager.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4C3D7F5B-CE20-4D81-BF6D-1A87DCD9DDEA" />
 </Properties>
