@@ -11,13 +11,13 @@
             <StackLayout>
                 <StackLayout Padding="30" Spacing="2" VerticalOptions="CenterAndExpand" 
                              HorizontalOptions="CenterAndExpand">
-                    <Label Text="Project Manager" FontSize="Title" TextColor="Black\    .,mnb vcxz />
+                    <Label Text="Project Manager" FontSize="Title" TextColor="Black"/>
 
                 </StackLayout>
                 <StackLayout Padding="30" Spacing="2" VerticalOptions="CenterAndExpand" 
                              HorizontalOptions="FillAndExpand" >
                     <Label Text="Nome do Usuário" TextColor="#555" FontSize="20" FontAttributes="Bold"/>
-                    <Entry  Keyboard="Numeric" Placeholder="Informe o nome do usuário" PlaceholderColor="#CCC" 
+                    <Entry   Placeholder="Informe o nome do usuário" PlaceholderColor="#CCC" 
                             FontSize="20" TextColor="#555" />
                     <Label Text="Senha" TextColor="#555" FontSize="20" FontAttributes="Bold"/>
                     <Entry  Placeholder="Informe a senha" Keyboard="Default" IsPassword="True" FontSize="20" 
